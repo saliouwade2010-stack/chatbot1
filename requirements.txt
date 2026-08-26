@@ -1,7 +1,7 @@
 streamlit
 pdfplumber
 scikit-learn
-transformers
+transformers<5
 torch
 sentencepiece
 protobuf
