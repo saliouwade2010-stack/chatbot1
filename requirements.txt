@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+scikit-learn
+transformers
+torch
+sentencepiece
+protobuf
+nltk
