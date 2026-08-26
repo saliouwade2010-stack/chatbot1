@@ -11,7 +11,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from transformers import pipeline, AutoTokenizer, AutoModelForQuestionAnswering
 import nltk
 
-PDF_PATH = "data/ras01.pdf"
+PDF_PATH = "ras01.pdf"
 MODEL_NAME = "etalab-ia/camembert-base-squadFR-fquad-piaf"
 TAILLE_MOTS = 150
 CHEVAUCHEMENT = 30
